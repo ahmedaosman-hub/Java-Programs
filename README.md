@@ -1,3 +1,4 @@
-# Spring-2020
-All of my Java Programs created.
-Please contact me at ahmedaosman00@gmail.com for further questions. 
+#Welcome. 
+My name is Ahmed Osman.
+These are all my assignments completed in C language. 
+Please contact me at ahmedaosman00@gmail.com for any questions or inquiries. 
